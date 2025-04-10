@@ -35,7 +35,7 @@ It brings the best of both worlds:
 The Kowabunga projects consists of multiple core components:
 
 - **Kahuna**: the core orchestration system. Remotely controls every resource and maintains ecosystem consistent. Gateway to the Kowabunga REST API.
-- **Kaktus**:the HCI node(s). Provides KVM-based virtual computing hypervisorwith Ceph-based distributed storage services.
+- **Kaktus**: the HCI node(s). Provides KVM-based virtual computing hypervisor with Ceph-based distributed storage services.
 - **Kiwi**: the SD-WAN node(s). Provides various network services like routing, firewall, DHCP, DNS, VPN, peering (with active-passive failover).
 - **Koala**: the WebUI. Allows for day-to-day supervision and operation of the various projects and services.
 

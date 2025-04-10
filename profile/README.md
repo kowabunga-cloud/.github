@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://www.kowabunga.cloud/?utm_source=github&utm_medium=logo" target="_blank">
     <picture>
-      <source srcset="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png">
-      <source srcset="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png">
-      <img src="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png" alt=">
+      <source srcset="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://raw.githack.com/kowabunga-cloud/infographics/master/art/kowabunga-square-600x600-2.png" alt="Kowabunga" width="200">
     </picture>
   </a>
 </p>
@@ -21,12 +21,14 @@ It brings the best of both worlds:
 
 ## Why Kowabunga ?
 
-- **Cost-Effective**:Full private-cloud on-premises readiness and ability to run on commodity hardware. No runtime fees, no egress charges, flat-rate predictable cost. **Keep control of your TCO.**
-- **Resilient & Features-Rich**:Kowabunga enables highly-available designs, across multiple data centersand availability zones and brings automated software-as-a-service. **Shorten application development and setup times.**
-- **No Vendor-Locking**:Harness the potential of Open-Source software stack as a backend:no third-party commercial dependency. We stand on the shoulders of giants: KVM, Ceph ... **Technical choices remain yours and yours only.**
-- **Open Source … by nature**:Kowabunga itself is OpenSource, from API to client and server-side components.We have nothing to hide but everything to contribute. **We believe in mutual trust.**
+- **Cost-Effective**: Full private-cloud on-premises readiness and ability to run on commodity hardware. No runtime fees, no egress charges, flat-rate predictable cost. **Keep control of your TCO.**
+- **Resilient & Features-Rich**: Kowabunga enables highly-available designs, across multiple data centers and availability zones and brings automated software-as-a-service. **Shorten application development and setup times.**
+- **No Vendor-Locking**: Harness the potential of Open-Source software stack as a backend: no third-party commercial dependency. We stand on the shoulders of giants: KVM, Ceph ... **Technical choices remain yours and yours only.**
+- **Open Source … by nature**: Kowabunga itself is OpenSource, from API to client and server-side components. We have nothing to hide but everything to contribute. **We believe in mutual trust.**
+
 
 **A Kowabunga-hosted project costs 1/10th of a Cloud-hosted one.**
+
 
 ## Technological Stack
 

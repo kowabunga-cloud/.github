@@ -34,16 +34,16 @@ It brings the best of both worlds:
 
 The Kowabunga projects consists of multiple core components:
 
-- **Kahuna**: the core orchestration system. Remotely controls every resource and maintains ecosystem consistent. Gateway to the Kowabunga REST API.
-- **Kaktus**: the HCI node(s). Provides KVM-based virtual computing hypervisor with Ceph-based distributed storage services.
+- **[Kahuna](https://github.com/kowabunga-cloud/kahuna)**: the core orchestration system. Remotely controls every resource and maintains ecosystem consistent. Gateway to the Kowabunga REST API.
+- **[Kaktus](https://github.com/kowabunga-cloud/kaktus)**: the HCI node(s). Provides KVM-based virtual computing hypervisor with Ceph-based distributed storage services.
 - **[Kiwi](https://github.com/kowabunga-cloud/kiwi)**: the SD-WAN node(s). Provides various network services like routing, firewall, DHCP, DNS, VPN, peering (with active-passive failover).
-- **Koala**: the WebUI. Allows for day-to-day supervision and operation of the various projects and services.
+- **[Koala](https://github.com/kowabunga-cloud/koala)**: the WebUI. Allows for day-to-day supervision and operation of the various projects and services.
 
 and plenty of ready-to-be-consumed -as-a-service features:
 
-- **Kawaii**: Internet Gateway, with ingress/egress control, firewall and peering capabilities (VPC and IPSEC).
+- **[Kawaii](https://github.com/kowabunga-cloud/kawaii)**: Internet Gateway, with ingress/egress control, firewall and peering capabilities (VPC and IPSEC).
 - **Kompute**: Virtual Computing and Block Storage.
-- **Konvey**: Network Load-Balancer.
+- **[Konvey](https://github.com/kowabunga-cloud/konvey)**: Network Load-Balancer.
 - **Kylo**: Distributed Network File-System (NFS).
 
 ## Fun Facts 🍿
